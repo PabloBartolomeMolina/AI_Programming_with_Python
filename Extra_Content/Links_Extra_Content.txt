@@ -1,0 +1,4 @@
+Yes you should understand backprop, by Andrej Karpathy 
+	https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b#.vt3ax2kg9
+CS231n Winter 2016 Lecture 4 Backpropagation, Neural Networks 1-Q_UWHTY_TEQ.mp4
+	https://www.youtube.com/watch?v=59Hbtz7XgjM&ab_channel=HaoDu%28Alex%29
