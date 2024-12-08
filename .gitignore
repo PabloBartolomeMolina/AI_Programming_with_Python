@@ -1,1 +1,5 @@
+# Ignore the "External_Links" folder
 External_Links/
+
+# Ignore all .mp4 files inside the "External_Contents" folder
+External_Contents/*.mp4
