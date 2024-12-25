@@ -1,0 +1,6 @@
+PyTorch Embedding Layers(opens in a new tab) - Documentation on the nn.Embedding layer in PyTorch, explaining how to create and use embedding layers.
+	- https://pytorch.org/docs/stable/generated/torch.nn.Embedding.html
+Creating Custom Embeddings(opens in a new tab) - A guide to creating custom word embeddings, with principles applicable across different frameworks, including PyTorch.
+	- https://www.tensorflow.org/text/guide/word_embeddings?hl=fr
+Transformers: Attention Is All You Need(opens in a new tab) - The original research paper introducing the Transformer architecture, detailing the components and innovations of the model.
+	- https://arxiv.org/abs/1706.03762
