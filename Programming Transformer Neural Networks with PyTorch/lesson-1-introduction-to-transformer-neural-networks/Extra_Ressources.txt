@@ -4,3 +4,5 @@ Creating Custom Embeddings(opens in a new tab) - A guide to creating custom word
 	- https://www.tensorflow.org/text/guide/word_embeddings?hl=fr
 Transformers: Attention Is All You Need(opens in a new tab) - The original research paper introducing the Transformer architecture, detailing the components and innovations of the model.
 	- https://arxiv.org/abs/1706.03762
+The Transformer Model and Masked Language Modeling(opens in a new tab) - Documentation on GPT-2 and its use of masked language modeling to ensure valid training processes.
+	https://huggingface.co/docs/transformers/model_doc/gpt2
