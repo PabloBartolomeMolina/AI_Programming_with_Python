@@ -14,3 +14,7 @@ PyTorch DataLoader Documentation - Official documentation on DataLoader, which i
 	https://pytorch.org/docs/stable/data.html
 Optimizers in PyTorch - Information on different optimization algorithms provided by PyTorch, including their uses and parameters.
 	https://pytorch.org/docs/stable/optim.html
+PyTorch Documentation - Comprehensive guide and reference for PyTorch, covering modules, functions, and classes.
+	https://pytorch.org/docs/stable/index.html
+AdamW Optimizer in PyTorch - Information about the AdamW optimizer, which helps in weight decay and improving training stability.
+	https://pytorch.org/docs/stable/generated/torch.optim.AdamW.html
