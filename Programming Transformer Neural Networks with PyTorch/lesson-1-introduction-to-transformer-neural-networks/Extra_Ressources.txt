@@ -10,3 +10,7 @@ PyTorch Dropout Documentation(opens in a new tab) - Official documentation on th
 	https://pytorch.org/docs/stable/generated/torch.nn.Dropout.html
 The Original Dropout Paper - "Dropout: A Simple Way to Prevent Neural Networks from Overfitting" by Srivastava et al., which introduced the dropout technique.
 	https://jmlr.org/papers/v15/srivastava14a.html
+PyTorch DataLoader Documentation - Official documentation on DataLoader, which is used for loading data in batches during training.
+	https://pytorch.org/docs/stable/data.html
+Optimizers in PyTorch - Information on different optimization algorithms provided by PyTorch, including their uses and parameters.
+	https://pytorch.org/docs/stable/optim.html
