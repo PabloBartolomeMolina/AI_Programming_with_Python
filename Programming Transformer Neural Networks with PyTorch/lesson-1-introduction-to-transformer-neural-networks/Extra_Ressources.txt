@@ -26,3 +26,5 @@ Reward Models in AI - An academic paper on the use of reward models in artificia
 	https://arxiv.org/abs/2009.01325
 Scaling Laws for Neural Language Models - Research discussing the scaling properties of neural language models, including parameter size, training data, and computational requirements.
 	https://arxiv.org/abs/2001.08361
+GPT-3: Language Models are Few-Shot Learners= - The paper introducing GPT-3, a notable example of the decoder-only model architecture.
+	https://arxiv.org/abs/2005.14165
