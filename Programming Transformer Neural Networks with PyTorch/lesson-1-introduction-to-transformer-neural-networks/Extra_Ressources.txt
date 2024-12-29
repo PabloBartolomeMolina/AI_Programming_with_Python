@@ -18,3 +18,11 @@ PyTorch Documentation - Comprehensive guide and reference for PyTorch, covering 
 	https://pytorch.org/docs/stable/index.html
 AdamW Optimizer in PyTorch - Information about the AdamW optimizer, which helps in weight decay and improving training stability.
 	https://pytorch.org/docs/stable/generated/torch.optim.AdamW.html
+OpenAI's GPT Models Overview - Overview of OpenAI's GPT-2 model, providing insights into the evolution and scaling of GPT models.
+	https://openai.com/research/
+Fine-Tuning Pre-Trained Language Models - A guide on how to fine-tune pre-trained language models for specific tasks, such as question answering.
+	https://huggingface.co/docs/transformers/training
+Reward Models in AI - An academic paper on the use of reward models in artificial intelligence, detailing how they are used to refine model outputs based on human feedback.
+	https://arxiv.org/abs/2009.01325
+Scaling Laws for Neural Language Models - Research discussing the scaling properties of neural language models, including parameter size, training data, and computational requirements.
+	https://arxiv.org/abs/2001.08361
