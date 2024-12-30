@@ -38,3 +38,7 @@ Hugging Face Datasets - Access to a wide variety of datasets that can be used fo
 	https://huggingface.co/datasets
 Spaces by Hugging Face - A platform for creating and sharing machine learning applications and demos using Hugging Face's infrastructure.
 	https://huggingface.co/spaces
+Hugging Face Pipeline API - Detailed information on the high-level pipeline API provided by Hugging Face, which simplifies the use of pre-trained models for different tasks.
+	https://huggingface.co/docs/transformers/main_classes/pipelines
+Hugging Face Models - A repository of pre-trained models available for use in various applications, including text generation, summarization, translation, and more.
+	https://huggingface.co/models
