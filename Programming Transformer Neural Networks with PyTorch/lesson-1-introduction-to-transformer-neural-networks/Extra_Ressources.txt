@@ -26,5 +26,15 @@ Reward Models in AI - An academic paper on the use of reward models in artificia
 	https://arxiv.org/abs/2009.01325
 Scaling Laws for Neural Language Models - Research discussing the scaling properties of neural language models, including parameter size, training data, and computational requirements.
 	https://arxiv.org/abs/2001.08361
-GPT-3: Language Models are Few-Shot Learners= - The paper introducing GPT-3, a notable example of the decoder-only model architecture.
+GPT-3: Language Models are Few-Shot Learners - The paper introducing GPT-3, a notable example of the decoder-only model architecture.
 	https://arxiv.org/abs/2005.14165
+Hugging Face Transformers - Comprehensive documentation on using Hugging Face's library for working with transformer models, including model training and fine-tuning.
+	https://huggingface.co/docs/transformers/index
+Fine-Tuning with Hugging Face - A guide on how to fine-tune existing models using the Hugging Face library.
+	https://huggingface.co/learn/nlp-course/chapter3/3?fw=pt
+Understanding Tokenization - Details on tokenization techniques provided by Hugging Face, crucial for preparing text data for model training.
+	https://huggingface.co/docs/tokenizers/python/latest/
+Hugging Face Datasets - Access to a wide variety of datasets that can be used for training and evaluating models.
+	https://huggingface.co/datasets
+Spaces by Hugging Face - A platform for creating and sharing machine learning applications and demos using Hugging Face's infrastructure.
+	https://huggingface.co/spaces
