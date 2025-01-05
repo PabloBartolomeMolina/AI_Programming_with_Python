@@ -42,3 +42,9 @@ Hugging Face Pipeline API - Detailed information on the high-level pipeline API 
 	https://huggingface.co/docs/transformers/main_classes/pipelines
 Hugging Face Models - A repository of pre-trained models available for use in various applications, including text generation, summarization, translation, and more.
 	https://huggingface.co/models
+Introduction to Hugging Face - A comprehensive guide to getting started with Hugging Face, including tutorials on using the high-level and low-level APIs.
+	https://huggingface.co/learn/nlp-course/chapter1/1
+Zero-Shot Classification - Overview of zero-shot classification, including how to set up and use the task with different models.
+	https://huggingface.co/docs/transformers/task_summary#zero-shot-classification
+Image Processing with Transformers - Documentation on using Transformers for image-related tasks such as classification and captioning.
+	https://huggingface.co/docs/transformers/main_classes/pipelines#image-classification
